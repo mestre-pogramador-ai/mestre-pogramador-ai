@@ -1,50 +1,25 @@
-# Olá, eu sou o Mestre Programador IA! 🚀🤖
-
-### "Um programador que usa inteligências artificiais, sou vibe code."
-
-Seja bem-vindo ao meu perfil! Sou um desenvolvedor da nova era da tecnologia. Minha filosofia de trabalho é o **Vibe Coding**: utilizo o poder das Inteligências Artificiais e Agentes Autônomos como copilotos para transformar ideias ambiciosas em software funcional na velocidade do pensamento.
-
----
-
-## ⚡ Minha Filosofia (Vibe Coding)
-
-* **Prompting & Arquitetura:** O foco mudou. Em vez de apenas digitar linhas de código, atuo na definição da arquitetura, refinamento de regras de negócio e direcionamento estratégico de agentes.
-* **Velocidade Máxima:** Do conceito ao primeiro *commit* em minutos, usando IA para acelerar o desenvolvimento Full-Stack.
-* **Ciclo de Feedback Ágil:** Uso de ferramentas inteligentes para debugar, testar e refinar o código de forma autônoma.
-
----
-
-## 🛠️ Stack & Ferramentas de IA
-
-Aqui estão as ferramentas e tecnologias que fazem parte do meu ecossistema de desenvolvimento automatizado:
-
-| Categoria | Ferramentas / Assistentes |
-| :--- | :--- |
-| **Ambientes & Editores** | Cursor, VS Code (Planning Mode), GitHub Spark |
-| **Assistentes de Código** | GitHub Copilot (Agent Mode), Claude, GPT-4o |
-| **Desenvolvimento Web** | JavaScript / TypeScript, React, Node.js |
-| **Versionamento & Fluxo** | Git, GitHub Actions, CI/CD automatizado por IA |
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mestre-pogramador-ai&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mestre-pogramador-ai&layout=compact&theme=radical"/>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
----
+###
 
-## 🤝 Vamos Conectar?
+<br clear="both">
 
-Se você também curte automação, inteligência artificial e quer trocar ideias sobre como as IAs estão revolucionando o desenvolvimento de software, fique à vontade para explorar meus repositórios ou entrar em contato!
+<div align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pogramador ia/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@pogramador ia/0" alt="Medium post 1"  />
+  </a>
+</div>
 
-* 💬 **Quer conversar sobre IA?** Abra uma *Issue* ou me mande um alô!
-* 📫 **Como me encontrar:** Pelo próprio GitHub!
+###
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mestre-pogramador-ai/mestre-pogramador-ai/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/mestre-pogramador-ai/mestre-pogramador-ai/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=mestre-pogramador-ai&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/mestre-pogramador-ai/mestre-pogramador-ai/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
+  <img src="https://raw.githubusercontent.com/mestre-pogramador-ai/mestre-pogramador-ai/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
+</div>
 
-<p align="center">
-  <i>"O futuro do desenvolvimento não é apenas escrever código, é saber conversar com ele."</i> 🤖✨
-</p>
+###
